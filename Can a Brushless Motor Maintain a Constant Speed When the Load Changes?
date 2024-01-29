@@ -1,1 +1,7 @@
+<p>If there is a change in the load applied to a brushless motor, either an increase or decrease, the motor can maintain a relatively constant speed.</p>
 
+<p>This is because BLDC motors are designed to operate under constant voltage and current. When there is a change in the load, the motor controller will detect a change in speed and begin to adjust the input power to the <a href="https://www.omc-stepperonline.com/brushless-dc-motors">brushless dc motors</a>. During this process, the motor's speed will change momentarily and then slowly return to the rated speed.</p>
+
+<p>The time it takes to return to the rated speed is determined by the inertia of the motor rotor. The smaller the inertia, the shorter the recovery time, and the larger the inertia, the longer the recovery time.</p>
+
+<p>Of course, the change in the load must be below the rated torque of the motor for this automatic adjustment process to work.</p>
